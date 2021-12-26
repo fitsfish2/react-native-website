@@ -5,7 +5,7 @@ title: 跨平台的实现
 
 > This document refers to the architecture of the new renderer, [Fabric](fabric-renderer), that is in active roll-out.
 
-### React Native 渲染器使用 C++ core 渲染实现了跨平台共享。**
+#### React Native 渲染器使用了一个跨平台的核心渲染系统
 
 在上一代 React Native 渲染器中，React 影子树、布局逻辑、视图拍平算法是在各个平台单独实现的。当前的渲染器的设计上采用的是跨平台的解决方案，共享了核心的 C++ 实现。
 
