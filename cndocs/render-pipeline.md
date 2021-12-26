@@ -1,6 +1,6 @@
 ---
 id: render-pipeline
-title: 渲染，提交与装载（渲染管线）
+title: 渲染，提交与挂载（渲染流水线）
 ---
 
 > 文档介绍了即将发布的新渲染器 Fabric 的架构。
