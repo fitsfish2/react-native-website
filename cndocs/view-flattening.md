@@ -1,6 +1,6 @@
 ---
 id: view-flattening
-title: 视图层合并优化
+title: 视图拍平
 ---
 
 > This document refers to the architecture of the new renderer, [Fabric](fabric-renderer), that is in active roll-out.
